@@ -1,5 +1,4 @@
 # resume-verification-blockchain
-# Resume Information Verification
 
 This folder contains a demonstration of basic resume information verification using blockchain. The agents provide a web browser interface to show establishing relationships between agents, issuing verifiable credentials, and proving claims from verifiable credentials. We wrote the entire project using HyperLedger Indy.
 
