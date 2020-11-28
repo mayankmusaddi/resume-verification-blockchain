@@ -14,8 +14,7 @@ Go to the [Play with Docker](https://labs.play-with-docker.com/) and (if necessa
 Click the "Start" button to start a Docker sandbox you can use to run the demo, and then click the `+Add an Instance` link to start a terminal in your browser. Within the terminal that is visible in your browser, run the following commands:
 
 
-cd resume-verification-blockchain/src/indy-material/nodejs
-
+cd resume-verification-blockchain/
 
 ## Starting the Demonstration
 
